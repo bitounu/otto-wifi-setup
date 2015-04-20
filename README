@@ -1,0 +1,4 @@
+# otto-wifi setup
+
+Simple webserver implemented in C using the fossa library.
+Shows user available wifi-networks and allows to enter a password.
